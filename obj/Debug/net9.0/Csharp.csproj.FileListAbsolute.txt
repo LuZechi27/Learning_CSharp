@@ -1,0 +1,14 @@
+C:\Users\LGPHP\Documents\VSCode Programas\Luiz\Csharp\bin\Debug\net9.0\Csharp.exe
+C:\Users\LGPHP\Documents\VSCode Programas\Luiz\Csharp\bin\Debug\net9.0\Csharp.deps.json
+C:\Users\LGPHP\Documents\VSCode Programas\Luiz\Csharp\bin\Debug\net9.0\Csharp.runtimeconfig.json
+C:\Users\LGPHP\Documents\VSCode Programas\Luiz\Csharp\bin\Debug\net9.0\Csharp.dll
+C:\Users\LGPHP\Documents\VSCode Programas\Luiz\Csharp\bin\Debug\net9.0\Csharp.pdb
+C:\Users\LGPHP\Documents\VSCode Programas\Luiz\Csharp\obj\Debug\net9.0\Csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LGPHP\Documents\VSCode Programas\Luiz\Csharp\obj\Debug\net9.0\Csharp.AssemblyInfoInputs.cache
+C:\Users\LGPHP\Documents\VSCode Programas\Luiz\Csharp\obj\Debug\net9.0\Csharp.AssemblyInfo.cs
+C:\Users\LGPHP\Documents\VSCode Programas\Luiz\Csharp\obj\Debug\net9.0\Csharp.csproj.CoreCompileInputs.cache
+C:\Users\LGPHP\Documents\VSCode Programas\Luiz\Csharp\obj\Debug\net9.0\Csharp.dll
+C:\Users\LGPHP\Documents\VSCode Programas\Luiz\Csharp\obj\Debug\net9.0\refint\Csharp.dll
+C:\Users\LGPHP\Documents\VSCode Programas\Luiz\Csharp\obj\Debug\net9.0\Csharp.pdb
+C:\Users\LGPHP\Documents\VSCode Programas\Luiz\Csharp\obj\Debug\net9.0\Csharp.genruntimeconfig.cache
+C:\Users\LGPHP\Documents\VSCode Programas\Luiz\Csharp\obj\Debug\net9.0\ref\Csharp.dll
