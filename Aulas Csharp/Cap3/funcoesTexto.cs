@@ -78,6 +78,20 @@ namespace livrocsharp
                 qtde += Convert.ToInt32(p.Substring(0, p.IndexOf(' ')));
             }
             WriteLine($"Quantidade total: {qtde}");
+
+            int dia = 28;
+            int mes = 06;
+            int ano = 2025;
+
+            DateTime dtAniversario = new DateTime(ano, mes, dia);
+            DateTime dtFesta = new DateTime(2025, 08, 24);
+
+            WriteLine("=========Funções de data==========");
+
+            WriteLine($"Aniversário: {dtAniversario}");
+            WriteLine($"Aniversário: {dtAniversario:dd/MM/yyyy}");
+            WriteLine($"Aniversario: {dtAniversario:dddd/MMM/yyyy}");
+            WriteLine($"Aniversário: {dtAniversario:dddd dd/MMMM/yyyy}");
         }
     }
 }
