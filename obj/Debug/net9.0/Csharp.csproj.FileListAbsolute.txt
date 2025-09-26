@@ -12,3 +12,4 @@ C:\Users\LGPHP\Documents\VSCode Programas\Luiz\Csharp\obj\Debug\net9.0\refint\Cs
 C:\Users\LGPHP\Documents\VSCode Programas\Luiz\Csharp\obj\Debug\net9.0\Csharp.pdb
 C:\Users\LGPHP\Documents\VSCode Programas\Luiz\Csharp\obj\Debug\net9.0\Csharp.genruntimeconfig.cache
 C:\Users\LGPHP\Documents\VSCode Programas\Luiz\Csharp\obj\Debug\net9.0\ref\Csharp.dll
+c:\Users\LGPHP\Documents\VSCode Programas\Luiz\Csharp\obj\Debug\net9.0\Csharp.sourcelink.json
