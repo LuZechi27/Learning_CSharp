@@ -2,11 +2,11 @@ using static System.Console;
 using System;
 using System.Linq;
 
-namespace livrocsharp
+namespace LivroCSharpCap3
 {
-    class FuncoesTexto
+    public class FuncoesTexto
     {
-        static void Main(string[] args)
+        public static void MainTexto()
         {
             WriteLine("------ Funções de Textos ------");
             string empresa = " Microsoft Corporation  ";
