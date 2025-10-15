@@ -49,7 +49,7 @@ namespace LivroCSharpCap3
             WriteLine($"Texto esquerdo: {empresa.Remove(9)}");
 
             WriteLine("Captura o primeiro nome");
-            string[] nomes = { "Fabricio dos Santos", "José da Silva", "Roberta Brasil" };
+            string[] nomes = ["Fabricio dos Santos", "José da Silva", "Roberta Brasil"];
 
             foreach (var n in nomes)
             {
@@ -83,8 +83,8 @@ namespace LivroCSharpCap3
             int mes = 06;
             int ano = 2025;
 
-            DateTime dtAniversario = new DateTime(ano, mes, dia);
-            DateTime dtFesta = new DateTime(2025, 08, 24);
+            DateTime dtAniversario = new(ano, mes, dia);
+            DateTime dtFesta = new(2025, 08, 24);
 
             WriteLine("=========Funções de data==========");
 
